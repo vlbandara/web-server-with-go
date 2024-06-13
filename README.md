@@ -144,4 +144,7 @@ Here is an example of a simple, attractive HTML file you can place in the `stati
     </script>
 </body>
 </html>
+
+
+Here's a link to a tutorial on creating a simple web server with Go: [Simple Web Server with Go](https://www.aggrandizer.info/2024/06/simple-web-server-with-go.html)
  
